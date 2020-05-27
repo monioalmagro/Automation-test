@@ -1,6 +1,6 @@
 # Automation-test
-- Atomatización de pruebas
-- la finalidad del script es hacer un test para conocer el estados de mis paginas 
+- Atomatización de pruebas.
+- La finalidad del script es hacer un test para conocer el estados de mis paginas.
 
 
 ## Pruebas a realizar:
@@ -15,4 +15,4 @@
 
 ### Test  3
 
-- Verifica que exista la pagina web personal.
+- Verifica que exista la pagina web personal www.almagro.pythonanywhere.com 
